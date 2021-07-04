@@ -1,555 +1,117 @@
 Resultado Modelo de Transporte
-Custo Calculado: R$ 4350861.060000003 
-Fabrica   | Produto           | Quantidade (TON)  | Centro de DistribuiçãoAnastácio 
-Anastácio | Familia_Produto_1 | 596.0        | Alta Floresta - MT 
-Anastácio | Familia_Produto_1 | 16.0        | Diamantino - MT 
-Anastácio | Familia_Produto_3 | 18.0        | Diamantino - MT 
-Anastácio | Familia_Produto_5 | 6.0        | Diamantino - MT 
-Anastácio | Familia_Produto_6 | 64.0        | Diamantino - MT 
-Anastácio | Familia_Produto_7 | 92.0        | Diamantino - MT 
-Anastácio | Familia_Produto_9 | 247.0        | Diamantino - MT 
-Anastácio | Familia_Produto_10 | 79.0        | Diamantino - MT 
-Anastácio | Familia_Produto_11 | 81.0        | Diamantino - MT 
-Anastácio | Familia_Produto_12 | 131.0        | Diamantino - MT 
-Anastácio | Familia_Produto_14 | 82.0        | Diamantino - MT 
-Anastácio | Familia_Produto_16 | 58.0        | Diamantino - MT 
-Anastácio | Familia_Produto_18 | 53.0        | Diamantino - MT 
-Anastácio | Familia_Produto_19 | 31.0        | Diamantino - MT 
-Anastácio | Familia_Produto_20 | 68.0        | Diamantino - MT 
-Anastácio | Familia_Produto_1 | 260.0        | Araputanga - MT 
-Anastácio | Familia_Produto_5 | 30.0        | Araputanga - MT 
-Anastácio | Familia_Produto_1 | 223.0        | Vilhena - RO 
-Anastácio | Familia_Produto_10 | 23.0        | Vilhena - RO 
-Anastácio | Familia_Produto_1 | 245.0        | Pimenta Bueno - RO 
-Anastácio | Familia_Produto_1 | 158.0        | São Miguel do Guaporé - RO 
-Anastácio | Familia_Produto_1 | 20.0        | Goiania - GO 
-Anastácio | Familia_Produto_16 | 135.0        | Ponta Porã 
-Anastácio | Familia_Produto_1 | 138.0        | Osasco - SP 
-Anastácio | Familia_Produto_1 | 79.0        | Aparecida de Goiania  
-Anastácio | Familia_Produto_3 | 53.0        | Barra do Garças - MT 
-Anastácio | Familia_Produto_1 | 78.0        | Pedra Preta - MT 
-Anastácio | Familia_Produto_2 | 39.0        | Pedra Preta - MT 
-Anastácio | Familia_Produto_3 | 148.0        | Pedra Preta - MT 
-Anastácio | Familia_Produto_4 | 95.0        | Pedra Preta - MT 
-Anastácio | Familia_Produto_5 | 226.0        | Pedra Preta - MT 
-Anastácio | Familia_Produto_6 | 139.0        | Pedra Preta - MT 
-Anastácio | Familia_Produto_7 | 177.0        | Pedra Preta - MT 
-Anastácio | Familia_Produto_8 | 62.0        | Pedra Preta - MT 
-Anastácio | Familia_Produto_9 | 29.0        | Pedra Preta - MT 
-Anastácio | Familia_Produto_10 | 39.0        | Pedra Preta - MT 
-Anastácio | Familia_Produto_11 | 140.0        | Pedra Preta - MT 
-Anastácio | Familia_Produto_12 | 56.0        | Pedra Preta - MT 
-Anastácio | Familia_Produto_13 | 9.0        | Pedra Preta - MT 
-Anastácio | Familia_Produto_14 | 193.0        | Pedra Preta - MT 
-Anastácio | Familia_Produto_15 | 4.0        | Pedra Preta - MT 
-Anastácio | Familia_Produto_16 | 42.0        | Pedra Preta - MT 
-Anastácio | Familia_Produto_17 | 235.0        | Pedra Preta - MT 
-Anastácio | Familia_Produto_18 | 220.0        | Pedra Preta - MT 
-Anastácio | Familia_Produto_19 | 185.0        | Pedra Preta - MT 
-Anastácio | Familia_Produto_1 | 21.0        | Juara - MT 
-Anastácio | Familia_Produto_10 | 87.0        | Juara - MT 
-Anastácio | Familia_Produto_1 | 108.0        | POontes e Lacerda - MT 
-Anastácio | Familia_Produto_12 | 31.0        | POontes e Lacerda - MT 
-Nova Andradina | Familia_Produto_5 | 104.0        | Goiania - GO 
-Nova Andradina | Familia_Produto_2 | 51.0        | Ponta Porã 
-Nova Andradina | Familia_Produto_13 | 186.0        | Ponta Porã 
-Nova Andradina | Familia_Produto_3 | 43.0        | Anhenguera - SP 1 
-Nova Andradina | Familia_Produto_4 | 22.0        | Anhenguera - SP 1 
-Nova Andradina | Familia_Produto_16 | 54.0        | Anhenguera - SP 1 
-Nova Andradina | Familia_Produto_1 | 19.0        | Osasco - SP 
-Nova Andradina | Familia_Produto_2 | 120.0        | Osasco - SP 
-Nova Andradina | Familia_Produto_3 | 61.0        | Osasco - SP 
-Nova Andradina | Familia_Produto_4 | 19.0        | Osasco - SP 
-Nova Andradina | Familia_Produto_5 | 64.0        | Osasco - SP 
-Nova Andradina | Familia_Produto_6 | 12.0        | Osasco - SP 
-Nova Andradina | Familia_Produto_7 | 48.0        | Osasco - SP 
-Nova Andradina | Familia_Produto_8 | 83.0        | Osasco - SP 
-Nova Andradina | Familia_Produto_11 | 27.0        | Osasco - SP 
-Nova Andradina | Familia_Produto_12 | 16.0        | Osasco - SP 
-Nova Andradina | Familia_Produto_15 | 46.0        | Osasco - SP 
-Nova Andradina | Familia_Produto_16 | 49.0        | Osasco - SP 
-Nova Andradina | Familia_Produto_17 | 105.0        | Osasco - SP 
-Nova Andradina | Familia_Produto_18 | 123.0        | Osasco - SP 
-Nova Andradina | Familia_Produto_19 | 41.0        | Osasco - SP 
-Nova Andradina | Familia_Produto_20 | 133.0        | Osasco - SP 
-Nova Andradina | Familia_Produto_5 | 64.0        | Aparecida de Goiania  
-Nova Andradina | Familia_Produto_5 | 14.0        | Barra do Garças - MT 
-Nova Andradina | Familia_Produto_6 | 78.0        | Barra do Garças - MT 
-Nova Andradina | Familia_Produto_8 | 13.0        | Barra do Garças - MT 
-Nova Andradina | Familia_Produto_9 | 51.0        | Barra do Garças - MT 
-Nova Andradina | Familia_Produto_10 | 259.0        | Barra do Garças - MT 
-Nova Andradina | Familia_Produto_14 | 151.0        | Barra do Garças - MT 
-Nova Andradina | Familia_Produto_17 | 5.0        | Barra do Garças - MT 
-Nova Andradina | Familia_Produto_2 | 17.0        | Pedra Preta - MT 
-Nova Andradina | Familia_Produto_13 | 16.0        | Pedra Preta - MT 
-Nova Andradina | Familia_Produto_4 | 46.0        | Anhenguera - SP 2 
-Nova Andradina | Familia_Produto_11 | 103.0        | Anhenguera - SP 2 
-Nova Andradina | Familia_Produto_3 | 70.0        | Cajamar - SP 
-Nova Andradina | Familia_Produto_8 | 175.0        | Cajamar - SP 
-Nova Andradina | Familia_Produto_11 | 5.0        | Cajamar - SP 
-Nova Andradina | Familia_Produto_19 | 65.0        | Cajamar - SP 
-Dourados | Familia_Produto_1 | 56.0        | Ponta Porã 
-Dourados | Familia_Produto_2 | 86.0        | Ponta Porã 
-Dourados | Familia_Produto_3 | 22.0        | Ponta Porã 
-Dourados | Familia_Produto_5 | 105.0        | Ponta Porã 
-Dourados | Familia_Produto_6 | 80.0        | Ponta Porã 
-Dourados | Familia_Produto_7 | 21.0        | Ponta Porã 
-Dourados | Familia_Produto_8 | 20.0        | Ponta Porã 
-Dourados | Familia_Produto_9 | 169.0        | Ponta Porã 
-Dourados | Familia_Produto_10 | 180.0        | Ponta Porã 
-Dourados | Familia_Produto_11 | 23.0        | Ponta Porã 
-Dourados | Familia_Produto_12 | 227.0        | Ponta Porã 
-Dourados | Familia_Produto_13 | 10.0        | Ponta Porã 
-Dourados | Familia_Produto_14 | 30.0        | Ponta Porã 
-Dourados | Familia_Produto_15 | 163.0        | Ponta Porã 
-Dourados | Familia_Produto_16 | 81.0        | Ponta Porã 
-Dourados | Familia_Produto_17 | 17.0        | Ponta Porã 
-Dourados | Familia_Produto_18 | 66.0        | Ponta Porã 
-Dourados | Familia_Produto_19 | 118.0        | Ponta Porã 
-Dourados | Familia_Produto_20 | 57.0        | Ponta Porã 
-Dourados | Familia_Produto_3 | 4.0        | Anhenguera - SP 1 
-Dourados | Familia_Produto_18 | 115.0        | Anhenguera - SP 1 
-Dourados | Familia_Produto_19 | 5.0        | Anhenguera - SP 1 
-Dourados | Familia_Produto_6 | 115.0        | Barra do Garças - MT 
-Dourados | Familia_Produto_7 | 32.0        | Barra do Garças - MT 
-Dourados | Familia_Produto_9 | 94.0        | Barra do Garças - MT 
-Dourados | Familia_Produto_10 | 7.0        | Barra do Garças - MT 
-Dourados | Familia_Produto_12 | 62.0        | Barra do Garças - MT 
-Dourados | Familia_Produto_14 | 4.0        | Barra do Garças - MT 
-Dourados | Familia_Produto_15 | 22.0        | Barra do Garças - MT 
-Dourados | Familia_Produto_17 | 59.0        | Barra do Garças - MT 
-Dourados | Familia_Produto_18 | 112.0        | Barra do Garças - MT 
-Dourados | Familia_Produto_4 | 34.0        | Pedra Preta - MT 
-Dourados | Familia_Produto_6 | 1.0        | Pedra Preta - MT 
-Dourados | Familia_Produto_10 | 22.0        | Juara - MT 
-Dourados | Familia_Produto_1 | 181.0        | Anhenguera - SP 2 
-Dourados | Familia_Produto_7 | 18.0        | Anhenguera - SP 2 
-Campo Grande | Familia_Produto_11 | 21.0        | Diamantino - MT 
-Campo Grande | Familia_Produto_20 | 86.0        | Diamantino - MT 
-Campo Grande | Familia_Produto_6 | 13.0        | Araputanga - MT 
-Campo Grande | Familia_Produto_10 | 133.0        | Araputanga - MT 
-Campo Grande | Familia_Produto_12 | 13.0        | Araputanga - MT 
-Campo Grande | Familia_Produto_1 | 107.0        | Goiania - GO 
-Campo Grande | Familia_Produto_12 | 2.0        | Goiania - GO 
-Campo Grande | Familia_Produto_7 | 14.0        | Aparecida de Goiania  
-Campo Grande | Familia_Produto_11 | 13.0        | Aparecida de Goiania  
-Campo Grande | Familia_Produto_12 | 160.0        | Aparecida de Goiania  
-Campo Grande | Familia_Produto_18 | 18.0        | Aparecida de Goiania  
-Campo Grande | Familia_Produto_1 | 58.0        | Barra do Garças - MT 
-Campo Grande | Familia_Produto_3 | 113.0        | Barra do Garças - MT 
-Campo Grande | Familia_Produto_5 | 100.0        | Barra do Garças - MT 
-Campo Grande | Familia_Produto_7 | 113.0        | Barra do Garças - MT 
-Campo Grande | Familia_Produto_8 | 71.0        | Barra do Garças - MT 
-Campo Grande | Familia_Produto_9 | 72.0        | Barra do Garças - MT 
-Campo Grande | Familia_Produto_11 | 126.0        | Barra do Garças - MT 
-Campo Grande | Familia_Produto_12 | 27.0        | Barra do Garças - MT 
-Campo Grande | Familia_Produto_14 | 102.0        | Barra do Garças - MT 
-Campo Grande | Familia_Produto_15 | 21.0        | Barra do Garças - MT 
-Campo Grande | Familia_Produto_16 | 1.0        | Barra do Garças - MT 
-Campo Grande | Familia_Produto_17 | 131.0        | Barra do Garças - MT 
-Campo Grande | Familia_Produto_18 | 158.0        | Barra do Garças - MT 
-Campo Grande | Familia_Produto_19 | 7.0        | Barra do Garças - MT 
-Campo Grande | Familia_Produto_20 | 25.0        | Barra do Garças - MT 
-Campo Grande | Familia_Produto_2 | 126.0        | Pedra Preta - MT 
-Campo Grande | Familia_Produto_4 | 74.0        | Pedra Preta - MT 
-Campo Grande | Familia_Produto_6 | 93.0        | Pedra Preta - MT 
-Campo Grande | Familia_Produto_8 | 162.0        | Pedra Preta - MT 
-Campo Grande | Familia_Produto_10 | 45.0        | Pedra Preta - MT 
-Campo Grande | Familia_Produto_12 | 31.0        | Pedra Preta - MT 
-Campo Grande | Familia_Produto_13 | 116.0        | Pedra Preta - MT 
-Campo Grande | Familia_Produto_15 | 165.0        | Pedra Preta - MT 
-Campo Grande | Familia_Produto_17 | 60.0        | Pedra Preta - MT 
-Campo Grande | Familia_Produto_20 | 117.0        | Pedra Preta - MT 
-Campo Grande | Familia_Produto_10 | 118.0        | POontes e Lacerda - MT 
-Caxias do Sul | Familia_Produto_2 | 94.0        | Anhenguera - SP 1 
-Caxias do Sul | Familia_Produto_5 | 32.0        | Anhenguera - SP 1 
-Caxias do Sul | Familia_Produto_7 | 57.0        | Anhenguera - SP 1 
-Caxias do Sul | Familia_Produto_9 | 27.0        | Anhenguera - SP 1 
-Caxias do Sul | Familia_Produto_10 | 9.0        | Anhenguera - SP 1 
-Caxias do Sul | Familia_Produto_12 | 121.0        | Anhenguera - SP 1 
-Caxias do Sul | Familia_Produto_13 | 156.0        | Anhenguera - SP 1 
-Caxias do Sul | Familia_Produto_16 | 54.0        | Anhenguera - SP 1 
-Caxias do Sul | Familia_Produto_18 | 62.0        | Anhenguera - SP 1 
-Caxias do Sul | Familia_Produto_20 | 216.0        | Anhenguera - SP 1 
-Caxias do Sul | Familia_Produto_2 | 98.0        | Osasco - SP 
-Caxias do Sul | Familia_Produto_5 | 184.0        | Osasco - SP 
-Caxias do Sul | Familia_Produto_6 | 77.0        | Osasco - SP 
-Caxias do Sul | Familia_Produto_7 | 181.0        | Osasco - SP 
-Caxias do Sul | Familia_Produto_9 | 28.0        | Osasco - SP 
-Caxias do Sul | Familia_Produto_10 | 118.0        | Osasco - SP 
-Caxias do Sul | Familia_Produto_12 | 4.0        | Osasco - SP 
-Caxias do Sul | Familia_Produto_13 | 40.0        | Osasco - SP 
-Caxias do Sul | Familia_Produto_14 | 24.0        | Osasco - SP 
-Caxias do Sul | Familia_Produto_17 | 57.0        | Osasco - SP 
-Caxias do Sul | Familia_Produto_18 | 68.0        | Osasco - SP 
-Caxias do Sul | Familia_Produto_20 | 29.0        | Osasco - SP 
-Caxias do Sul | Familia_Produto_2 | 82.0        | Anhenguera - SP 2 
-Caxias do Sul | Familia_Produto_4 | 25.0        | Anhenguera - SP 2 
-Caxias do Sul | Familia_Produto_5 | 10.0        | Anhenguera - SP 2 
-Caxias do Sul | Familia_Produto_7 | 15.0        | Anhenguera - SP 2 
-Caxias do Sul | Familia_Produto_10 | 140.0        | Anhenguera - SP 2 
-Caxias do Sul | Familia_Produto_12 | 78.0        | Anhenguera - SP 2 
-Caxias do Sul | Familia_Produto_14 | 46.0        | Anhenguera - SP 2 
-Caxias do Sul | Familia_Produto_17 | 44.0        | Anhenguera - SP 2 
-Caxias do Sul | Familia_Produto_20 | 33.0        | Anhenguera - SP 2 
-Caxias do Sul | Familia_Produto_1 | 239.0        | Cajamar - SP 
-Caxias do Sul | Familia_Produto_3 | 94.0        | Cajamar - SP 
-Caxias do Sul | Familia_Produto_5 | 72.0        | Cajamar - SP 
-Caxias do Sul | Familia_Produto_6 | 40.0        | Cajamar - SP 
-Caxias do Sul | Familia_Produto_7 | 40.0        | Cajamar - SP 
-Caxias do Sul | Familia_Produto_8 | 21.0        | Cajamar - SP 
-Caxias do Sul | Familia_Produto_9 | 112.0        | Cajamar - SP 
-Caxias do Sul | Familia_Produto_10 | 23.0        | Cajamar - SP 
-Caxias do Sul | Familia_Produto_11 | 11.0        | Cajamar - SP 
-Caxias do Sul | Familia_Produto_12 | 18.0        | Cajamar - SP 
-Caxias do Sul | Familia_Produto_13 | 64.0        | Cajamar - SP 
-Caxias do Sul | Familia_Produto_14 | 196.0        | Cajamar - SP 
-Caxias do Sul | Familia_Produto_15 | 217.0        | Cajamar - SP 
-Caxias do Sul | Familia_Produto_17 | 151.0        | Cajamar - SP 
-Caxias do Sul | Familia_Produto_18 | 68.0        | Cajamar - SP 
-Caxias do Sul | Familia_Produto_19 | 72.0        | Cajamar - SP 
-Itapetininga - SP | Familia_Produto_1 | 109.0        | Anhenguera - SP 1 
-Itapetininga - SP | Familia_Produto_2 | 84.0        | Anhenguera - SP 1 
-Itapetininga - SP | Familia_Produto_3 | 191.0        | Anhenguera - SP 1 
-Itapetininga - SP | Familia_Produto_4 | 86.0        | Anhenguera - SP 1 
-Itapetininga - SP | Familia_Produto_5 | 96.0        | Anhenguera - SP 1 
-Itapetininga - SP | Familia_Produto_7 | 143.0        | Anhenguera - SP 1 
-Itapetininga - SP | Familia_Produto_8 | 78.0        | Anhenguera - SP 1 
-Itapetininga - SP | Familia_Produto_9 | 95.0        | Anhenguera - SP 1 
-Itapetininga - SP | Familia_Produto_10 | 49.0        | Anhenguera - SP 1 
-Itapetininga - SP | Familia_Produto_11 | 131.0        | Anhenguera - SP 1 
-Itapetininga - SP | Familia_Produto_13 | 75.0        | Anhenguera - SP 1 
-Itapetininga - SP | Familia_Produto_14 | 71.0        | Anhenguera - SP 1 
-Itapetininga - SP | Familia_Produto_15 | 89.0        | Anhenguera - SP 1 
-Itapetininga - SP | Familia_Produto_16 | 83.0        | Anhenguera - SP 1 
-Itapetininga - SP | Familia_Produto_18 | 16.0        | Anhenguera - SP 1 
-Itapetininga - SP | Familia_Produto_19 | 16.0        | Anhenguera - SP 1 
-Itapetininga - SP | Familia_Produto_1 | 126.0        | Osasco - SP 
-Itapetininga - SP | Familia_Produto_6 | 164.0        | Osasco - SP 
-Itapetininga - SP | Familia_Produto_15 | 4.0        | Osasco - SP 
-Itapetininga - SP | Familia_Produto_19 | 93.0        | Osasco - SP 
-Itapetininga - SP | Familia_Produto_10 | 94.0        | Brasília - DF 
-Itapetininga - SP | Familia_Produto_3 | 62.0        | Anhenguera - SP 2 
-Itapetininga - SP | Familia_Produto_8 | 149.0        | Anhenguera - SP 2 
-Itapetininga - SP | Familia_Produto_11 | 56.0        | Anhenguera - SP 2 
-Itapetininga - SP | Familia_Produto_12 | 87.0        | Anhenguera - SP 2 
-Itapetininga - SP | Familia_Produto_13 | 143.0        | Anhenguera - SP 2 
-Itapetininga - SP | Familia_Produto_14 | 27.0        | Anhenguera - SP 2 
-Itapetininga - SP | Familia_Produto_16 | 196.0        | Anhenguera - SP 2 
-Itapetininga - SP | Familia_Produto_17 | 26.0        | Anhenguera - SP 2 
-Itapetininga - SP | Familia_Produto_18 | 189.0        | Anhenguera - SP 2 
-Itapetininga - SP | Familia_Produto_19 | 66.0        | Anhenguera - SP 2 
-Itapetininga - SP | Familia_Produto_20 | 118.0        | Anhenguera - SP 2 
-Itapetininga - SP | Familia_Produto_8 | 64.0        | Cajamar - SP 
-Naviraí | Familia_Produto_10 | 70.0        | Goiania - GO 
-Naviraí | Familia_Produto_14 | 99.0        | Goiania - GO 
-Naviraí | Familia_Produto_15 | 19.0        | Goiania - GO 
-Naviraí | Familia_Produto_2 | 38.0        | Ponta Porã 
-Naviraí | Familia_Produto_4 | 79.0        | Ponta Porã 
-Naviraí | Familia_Produto_5 | 175.0        | Ponta Porã 
-Naviraí | Familia_Produto_8 | 173.0        | Ponta Porã 
-Naviraí | Familia_Produto_9 | 76.0        | Ponta Porã 
-Naviraí | Familia_Produto_10 | 10.0        | Ponta Porã 
-Naviraí | Familia_Produto_11 | 78.0        | Ponta Porã 
-Naviraí | Familia_Produto_13 | 62.0        | Ponta Porã 
-Naviraí | Familia_Produto_14 | 35.0        | Ponta Porã 
-Naviraí | Familia_Produto_16 | 1.0        | Ponta Porã 
-Naviraí | Familia_Produto_20 | 146.0        | Ponta Porã 
-Naviraí | Familia_Produto_1 | 120.0        | Anhenguera - SP 1 
-Naviraí | Familia_Produto_4 | 190.0        | Anhenguera - SP 1 
-Naviraí | Familia_Produto_6 | 36.0        | Anhenguera - SP 1 
-Naviraí | Familia_Produto_7 | 20.0        | Anhenguera - SP 1 
-Naviraí | Familia_Produto_9 | 25.0        | Anhenguera - SP 1 
-Naviraí | Familia_Produto_15 | 14.0        | Anhenguera - SP 1 
-Naviraí | Familia_Produto_17 | 14.0        | Anhenguera - SP 1 
-Naviraí | Familia_Produto_18 | 68.0        | Anhenguera - SP 1 
-Naviraí | Familia_Produto_5 | 13.0        | Aparecida de Goiania  
-Naviraí | Familia_Produto_6 | 56.0        | Aparecida de Goiania  
-Naviraí | Familia_Produto_9 | 43.0        | Aparecida de Goiania  
-Naviraí | Familia_Produto_10 | 100.0        | Aparecida de Goiania  
-Naviraí | Familia_Produto_11 | 127.0        | Aparecida de Goiania  
-Naviraí | Familia_Produto_12 | 104.0        | Aparecida de Goiania  
-Naviraí | Familia_Produto_14 | 29.0        | Aparecida de Goiania  
-Naviraí | Familia_Produto_10 | 29.0        | Brasília - DF 
-Naviraí | Familia_Produto_6 | 88.0        | Anhenguera - SP 2 
-Naviraí | Familia_Produto_9 | 121.0        | Anhenguera - SP 2 
-Naviraí | Familia_Produto_12 | 55.0        | Anhenguera - SP 2 
-Naviraí | Familia_Produto_14 | 108.0        | Anhenguera - SP 2 
-Naviraí | Familia_Produto_15 | 9.0        | Anhenguera - SP 2 
-Naviraí | Familia_Produto_17 | 193.0        | Anhenguera - SP 2 
-Naviraí | Familia_Produto_20 | 73.0        | Anhenguera - SP 2 
-Naviraí | Familia_Produto_1 | 16.0        | Cajamar - SP 
-Naviraí | Familia_Produto_3 | 49.0        | Cajamar - SP 
-Naviraí | Familia_Produto_6 | 85.0        | Cajamar - SP 
-Naviraí | Familia_Produto_8 | 36.0        | Cajamar - SP 
-Naviraí | Familia_Produto_15 | 7.0        | Cajamar - SP 
-Naviraí | Familia_Produto_19 | 34.0        | Cajamar - SP 
-Brasília | Familia_Produto_1 | 151.0        | Goiania - GO 
-Brasília | Familia_Produto_3 | 150.0        | Goiania - GO 
-Brasília | Familia_Produto_4 | 76.0        | Goiania - GO 
-Brasília | Familia_Produto_5 | 12.0        | Goiania - GO 
-Brasília | Familia_Produto_6 | 20.0        | Goiania - GO 
-Brasília | Familia_Produto_7 | 24.0        | Goiania - GO 
-Brasília | Familia_Produto_8 | 10.0        | Goiania - GO 
-Brasília | Familia_Produto_9 | 161.0        | Goiania - GO 
-Brasília | Familia_Produto_13 | 45.0        | Goiania - GO 
-Brasília | Familia_Produto_16 | 73.0        | Goiania - GO 
-Brasília | Familia_Produto_17 | 13.0        | Goiania - GO 
-Brasília | Familia_Produto_19 | 66.0        | Goiania - GO 
-Brasília | Familia_Produto_20 | 48.0        | Goiania - GO 
-Brasília | Familia_Produto_4 | 20.0        | Aparecida de Goiania  
-Brasília | Familia_Produto_6 | 44.0        | Aparecida de Goiania  
-Brasília | Familia_Produto_13 | 3.0        | Aparecida de Goiania  
-Brasília | Familia_Produto_17 | 25.0        | Aparecida de Goiania  
-Brasília | Familia_Produto_20 | 113.0        | Aparecida de Goiania  
-Brasília | Familia_Produto_1 | 135.0        | Brasília - DF 
-Brasília | Familia_Produto_2 | 1.0        | Brasília - DF 
-Brasília | Familia_Produto_3 | 75.0        | Brasília - DF 
-Brasília | Familia_Produto_4 | 128.0        | Brasília - DF 
-Brasília | Familia_Produto_5 | 219.0        | Brasília - DF 
-Brasília | Familia_Produto_6 | 11.0        | Brasília - DF 
-Brasília | Familia_Produto_7 | 111.0        | Brasília - DF 
-Brasília | Familia_Produto_8 | 241.0        | Brasília - DF 
-Brasília | Familia_Produto_9 | 28.0        | Brasília - DF 
-Brasília | Familia_Produto_10 | 22.0        | Brasília - DF 
-Brasília | Familia_Produto_11 | 7.0        | Brasília - DF 
-Brasília | Familia_Produto_12 | 99.0        | Brasília - DF 
-Brasília | Familia_Produto_13 | 126.0        | Brasília - DF 
-Brasília | Familia_Produto_14 | 30.0        | Brasília - DF 
-Brasília | Familia_Produto_15 | 96.0        | Brasília - DF 
-Brasília | Familia_Produto_16 | 174.0        | Brasília - DF 
-Brasília | Familia_Produto_17 | 28.0        | Brasília - DF 
-Brasília | Familia_Produto_18 | 4.0        | Brasília - DF 
-Brasília | Familia_Produto_19 | 105.0        | Brasília - DF 
-Brasília | Familia_Produto_20 | 54.0        | Brasília - DF 
-Manaus | Familia_Produto_15 | 92.0        | Alta Floresta - MT 
-Manaus | Familia_Produto_20 | 13.0        | Alta Floresta - MT 
-Manaus | Familia_Produto_15 | 107.0        | Vilhena - RO 
-Manaus | Familia_Produto_16 | 63.0        | Vilhena - RO 
-Manaus | Familia_Produto_20 | 90.0        | Pimenta Bueno - RO 
-Manaus | Familia_Produto_1 | 177.0        | Porto Velho 
-Manaus | Familia_Produto_2 | 53.0        | Porto Velho 
-Manaus | Familia_Produto_3 | 63.0        | Porto Velho 
-Manaus | Familia_Produto_4 | 73.0        | Porto Velho 
-Manaus | Familia_Produto_5 | 190.0        | Porto Velho 
-Manaus | Familia_Produto_6 | 31.0        | Porto Velho 
-Manaus | Familia_Produto_7 | 278.0        | Porto Velho 
-Manaus | Familia_Produto_8 | 254.0        | Porto Velho 
-Manaus | Familia_Produto_9 | 93.0        | Porto Velho 
-Manaus | Familia_Produto_10 | 22.0        | Porto Velho 
-Manaus | Familia_Produto_11 | 117.0        | Porto Velho 
-Manaus | Familia_Produto_12 | 69.0        | Porto Velho 
-Manaus | Familia_Produto_13 | 194.0        | Porto Velho 
-Manaus | Familia_Produto_14 | 147.0        | Porto Velho 
-Manaus | Familia_Produto_15 | 20.0        | Porto Velho 
-Manaus | Familia_Produto_16 | 52.0        | Porto Velho 
-Manaus | Familia_Produto_17 | 106.0        | Porto Velho 
-Manaus | Familia_Produto_18 | 244.0        | Porto Velho 
-Manaus | Familia_Produto_19 | 132.0        | Porto Velho 
-Manaus | Familia_Produto_20 | 167.0        | Porto Velho 
-Manaus | Familia_Produto_5 | 79.0        | São Miguel do Guaporé - RO 
-Manaus | Familia_Produto_7 | 11.0        | São Miguel do Guaporé - RO 
-Manaus | Familia_Produto_10 | 46.0        | São Miguel do Guaporé - RO 
-Manaus | Familia_Produto_13 | 72.0        | São Miguel do Guaporé - RO 
-Manaus | Familia_Produto_14 | 17.0        | São Miguel do Guaporé - RO 
-Manaus | Familia_Produto_15 | 18.0        | São Miguel do Guaporé - RO 
-Manaus | Familia_Produto_16 | 182.0        | São Miguel do Guaporé - RO 
-Manaus | Familia_Produto_18 | 49.0        | São Miguel do Guaporé - RO 
-Manaus | Familia_Produto_20 | 25.0        | São Miguel do Guaporé - RO 
-Ji-Paraná | Familia_Produto_4 | 5.0        | Vilhena - RO 
-Ji-Paraná | Familia_Produto_15 | 91.0        | Vilhena - RO 
-Ji-Paraná | Familia_Produto_16 | 42.0        | Vilhena - RO 
-Ji-Paraná | Familia_Produto_2 | 88.0        | Pimenta Bueno - RO 
-Ji-Paraná | Familia_Produto_4 | 113.0        | Pimenta Bueno - RO 
-Ji-Paraná | Familia_Produto_9 | 62.0        | Pimenta Bueno - RO 
-Ji-Paraná | Familia_Produto_11 | 10.0        | Pimenta Bueno - RO 
-Ji-Paraná | Familia_Produto_15 | 9.0        | Pimenta Bueno - RO 
-Ji-Paraná | Familia_Produto_16 | 245.0        | Pimenta Bueno - RO 
-Ji-Paraná | Familia_Produto_18 | 42.0        | Pimenta Bueno - RO 
-Ji-Paraná | Familia_Produto_19 | 14.0        | Pimenta Bueno - RO 
-Ji-Paraná | Familia_Produto_20 | 47.0        | Pimenta Bueno - RO 
-Ji-Paraná | Familia_Produto_1 | 36.0        | Porto Velho 
-Ji-Paraná | Familia_Produto_1 | 86.0        | São Miguel do Guaporé - RO 
-Ji-Paraná | Familia_Produto_2 | 51.0        | São Miguel do Guaporé - RO 
-Ji-Paraná | Familia_Produto_3 | 3.0        | São Miguel do Guaporé - RO 
-Ji-Paraná | Familia_Produto_4 | 106.0        | São Miguel do Guaporé - RO 
-Ji-Paraná | Familia_Produto_5 | 78.0        | São Miguel do Guaporé - RO 
-Ji-Paraná | Familia_Produto_6 | 115.0        | São Miguel do Guaporé - RO 
-Ji-Paraná | Familia_Produto_7 | 59.0        | São Miguel do Guaporé - RO 
-Ji-Paraná | Familia_Produto_8 | 34.0        | São Miguel do Guaporé - RO 
-Ji-Paraná | Familia_Produto_9 | 203.0        | São Miguel do Guaporé - RO 
-Ji-Paraná | Familia_Produto_10 | 120.0        | São Miguel do Guaporé - RO 
-Ji-Paraná | Familia_Produto_11 | 189.0        | São Miguel do Guaporé - RO 
-Ji-Paraná | Familia_Produto_12 | 217.0        | São Miguel do Guaporé - RO 
-Ji-Paraná | Familia_Produto_13 | 99.0        | São Miguel do Guaporé - RO 
-Ji-Paraná | Familia_Produto_14 | 5.0        | São Miguel do Guaporé - RO 
-Ji-Paraná | Familia_Produto_17 | 170.0        | São Miguel do Guaporé - RO 
-Ji-Paraná | Familia_Produto_18 | 49.0        | São Miguel do Guaporé - RO 
-Ji-Paraná | Familia_Produto_19 | 50.0        | São Miguel do Guaporé - RO 
-Ji-Paraná | Familia_Produto_20 | 42.0        | POontes e Lacerda - MT 
-Itapetininga - BA | Familia_Produto_3 | 36.0        | Goiania - GO 
-Itapetininga - BA | Familia_Produto_5 | 52.0        | Goiania - GO 
-Itapetininga - BA | Familia_Produto_7 | 67.0        | Goiania - GO 
-Itapetininga - BA | Familia_Produto_8 | 30.0        | Goiania - GO 
-Itapetininga - BA | Familia_Produto_9 | 23.0        | Goiania - GO 
-Itapetininga - BA | Familia_Produto_16 | 59.0        | Goiania - GO 
-Itapetininga - BA | Familia_Produto_18 | 81.0        | Goiania - GO 
-Itapetininga - BA | Familia_Produto_19 | 16.0        | Goiania - GO 
-Itapetininga - BA | Familia_Produto_3 | 110.0        | Aparecida de Goiania  
-Itapetininga - BA | Familia_Produto_4 | 78.0        | Aparecida de Goiania  
-Itapetininga - BA | Familia_Produto_7 | 116.0        | Aparecida de Goiania  
-Itapetininga - BA | Familia_Produto_8 | 46.0        | Aparecida de Goiania  
-Itapetininga - BA | Familia_Produto_9 | 217.0        | Aparecida de Goiania  
-Itapetininga - BA | Familia_Produto_11 | 28.0        | Aparecida de Goiania  
-Itapetininga - BA | Familia_Produto_16 | 39.0        | Aparecida de Goiania  
-Itapetininga - BA | Familia_Produto_17 | 66.0        | Aparecida de Goiania  
-Itapetininga - BA | Familia_Produto_18 | 5.0        | Aparecida de Goiania  
-Itapetininga - BA | Familia_Produto_19 | 93.0        | Aparecida de Goiania  
-Itapetininga - BA | Familia_Produto_2 | 37.0        | Brasília - DF 
-Itapetininga - BA | Familia_Produto_11 | 31.0        | Brasília - DF 
-Itapetininga - BA | Familia_Produto_12 | 130.0        | Brasília - DF 
-Itapetininga - BA | Familia_Produto_15 | 3.0        | Brasília - DF 
-Itapetininga - BA | Familia_Produto_18 | 150.0        | Brasília - DF 
-Itapetininga - BA | Familia_Produto_1 | 128.0        | Maceió - AL 
-Itapetininga - BA | Familia_Produto_2 | 77.0        | Maceió - AL 
-Itapetininga - BA | Familia_Produto_4 | 55.0        | Maceió - AL 
-Itapetininga - BA | Familia_Produto_6 | 100.0        | Maceió - AL 
-Itapetininga - BA | Familia_Produto_8 | 189.0        | Maceió - AL 
-Itapetininga - BA | Familia_Produto_10 | 29.0        | Maceió - AL 
-Itapetininga - BA | Familia_Produto_11 | 44.0        | Maceió - AL 
-Itapetininga - BA | Familia_Produto_13 | 17.0        | Maceió - AL 
-Itapetininga - BA | Familia_Produto_14 | 114.0        | Maceió - AL 
-Itapetininga - BA | Familia_Produto_15 | 2.0        | Maceió - AL 
-Itapetininga - BA | Familia_Produto_16 | 33.0        | Maceió - AL 
-Itapetininga - BA | Familia_Produto_17 | 65.0        | Maceió - AL 
-Itapetininga - BA | Familia_Produto_20 | 33.0        | Maceió - AL 
-Itapetininga - BA | Familia_Produto_1 | 30.0        | Itaitinga - CE 
-Itapetininga - BA | Familia_Produto_1 | 18.0        | Simões Filho - BA 
-Itapetininga - BA | Familia_Produto_2 | 136.0        | Simões Filho - BA 
-Itapetininga - BA | Familia_Produto_3 | 103.0        | Simões Filho - BA 
-Itapetininga - BA | Familia_Produto_5 | 15.0        | Simões Filho - BA 
-Itapetininga - BA | Familia_Produto_6 | 121.0        | Simões Filho - BA 
-Itapetininga - BA | Familia_Produto_9 | 10.0        | Simões Filho - BA 
-Itapetininga - BA | Familia_Produto_11 | 102.0        | Simões Filho - BA 
-Itapetininga - BA | Familia_Produto_13 | 137.0        | Simões Filho - BA 
-Itapetininga - BA | Familia_Produto_15 | 156.0        | Simões Filho - BA 
-Itapetininga - BA | Familia_Produto_19 | 2.0        | Simões Filho - BA 
-Itapetininga - BA | Familia_Produto_20 | 16.0        | Simões Filho - BA 
-Itapetininga - BA | Familia_Produto_3 | 22.0        | Cajamar - SP 
-Itapetininga - BA | Familia_Produto_13 | 68.0        | Cajamar - SP 
-Itapetininga - BA | Familia_Produto_16 | 167.0        | Cajamar - SP 
-São Gonçado dos Campos | Familia_Produto_2 | 28.0        | Maceió - AL 
-São Gonçado dos Campos | Familia_Produto_3 | 11.0        | Maceió - AL 
-São Gonçado dos Campos | Familia_Produto_4 | 89.0        | Maceió - AL 
-São Gonçado dos Campos | Familia_Produto_7 | 19.0        | Maceió - AL 
-São Gonçado dos Campos | Familia_Produto_8 | 28.0        | Maceió - AL 
-São Gonçado dos Campos | Familia_Produto_9 | 34.0        | Maceió - AL 
-São Gonçado dos Campos | Familia_Produto_10 | 96.0        | Maceió - AL 
-São Gonçado dos Campos | Familia_Produto_11 | 76.0        | Maceió - AL 
-São Gonçado dos Campos | Familia_Produto_12 | 61.0        | Maceió - AL 
-São Gonçado dos Campos | Familia_Produto_13 | 105.0        | Maceió - AL 
-São Gonçado dos Campos | Familia_Produto_14 | 65.0        | Maceió - AL 
-São Gonçado dos Campos | Familia_Produto_16 | 51.0        | Maceió - AL 
-São Gonçado dos Campos | Familia_Produto_17 | 31.0        | Maceió - AL 
-São Gonçado dos Campos | Familia_Produto_18 | 20.0        | Maceió - AL 
-São Gonçado dos Campos | Familia_Produto_19 | 2.0        | Maceió - AL 
-São Gonçado dos Campos | Familia_Produto_20 | 184.0        | Maceió - AL 
-São Gonçado dos Campos | Familia_Produto_1 | 140.0        | Cascavel - CE 
-São Gonçado dos Campos | Familia_Produto_6 | 11.0        | Cascavel - CE 
-São Gonçado dos Campos | Familia_Produto_8 | 19.0        | Cascavel - CE 
-São Gonçado dos Campos | Familia_Produto_6 | 138.0        | Itaitinga - CE 
-São Gonçado dos Campos | Familia_Produto_8 | 95.0        | Itaitinga - CE 
-São Gonçado dos Campos | Familia_Produto_3 | 174.0        | Simões Filho - BA 
-São Gonçado dos Campos | Familia_Produto_5 | 156.0        | Simões Filho - BA 
-São Gonçado dos Campos | Familia_Produto_6 | 109.0        | Simões Filho - BA 
-São Gonçado dos Campos | Familia_Produto_7 | 235.0        | Simões Filho - BA 
-São Gonçado dos Campos | Familia_Produto_8 | 14.0        | Simões Filho - BA 
-São Gonçado dos Campos | Familia_Produto_9 | 168.0        | Simões Filho - BA 
-São Gonçado dos Campos | Familia_Produto_12 | 127.0        | Simões Filho - BA 
-São Gonçado dos Campos | Familia_Produto_14 | 149.0        | Simões Filho - BA 
-São Gonçado dos Campos | Familia_Produto_15 | 135.0        | Simões Filho - BA 
-São Gonçado dos Campos | Familia_Produto_16 | 195.0        | Simões Filho - BA 
-São Gonçado dos Campos | Familia_Produto_17 | 5.0        | Simões Filho - BA 
-São Gonçado dos Campos | Familia_Produto_18 | 163.0        | Simões Filho - BA 
-Feira de Santana | Familia_Produto_18 | 150.0        | Goiania - GO 
-Feira de Santana | Familia_Produto_2 | 130.0        | Maceió - AL 
-Feira de Santana | Familia_Produto_4 | 136.0        | Maceió - AL 
-Feira de Santana | Familia_Produto_5 | 33.0        | Maceió - AL 
-Feira de Santana | Familia_Produto_10 | 8.0        | Maceió - AL 
-Feira de Santana | Familia_Produto_12 | 38.0        | Maceió - AL 
-Feira de Santana | Familia_Produto_14 | 56.0        | Maceió - AL 
-Feira de Santana | Familia_Produto_15 | 126.0        | Maceió - AL 
-Feira de Santana | Familia_Produto_17 | 128.0        | Maceió - AL 
-Feira de Santana | Familia_Produto_19 | 64.0        | Maceió - AL 
-Feira de Santana | Familia_Produto_20 | 61.0        | Maceió - AL 
-Feira de Santana | Familia_Produto_1 | 36.0        | Cascavel - CE 
-Feira de Santana | Familia_Produto_3 | 62.0        | Cascavel - CE 
-Feira de Santana | Familia_Produto_5 | 7.0        | Cascavel - CE 
-Feira de Santana | Familia_Produto_6 | 74.0        | Cascavel - CE 
-Feira de Santana | Familia_Produto_7 | 78.0        | Cascavel - CE 
-Feira de Santana | Familia_Produto_8 | 171.0        | Cascavel - CE 
-Feira de Santana | Familia_Produto_9 | 65.0        | Cascavel - CE 
-Feira de Santana | Familia_Produto_11 | 16.0        | Cascavel - CE 
-Feira de Santana | Familia_Produto_12 | 129.0        | Cascavel - CE 
-Feira de Santana | Familia_Produto_13 | 7.0        | Cascavel - CE 
-Feira de Santana | Familia_Produto_16 | 48.0        | Cascavel - CE 
-Feira de Santana | Familia_Produto_17 | 77.0        | Cascavel - CE 
-Feira de Santana | Familia_Produto_18 | 69.0        | Cascavel - CE 
-Feira de Santana | Familia_Produto_20 | 23.0        | Cascavel - CE 
-Feira de Santana | Familia_Produto_18 | 18.0        | Caucaia - CE 
-Feira de Santana | Familia_Produto_1 | 168.0        | Itaitinga - CE 
-Feira de Santana | Familia_Produto_12 | 11.0        | Itaitinga - CE 
-Feira de Santana | Familia_Produto_13 | 29.0        | Itaitinga - CE 
-Feira de Santana | Familia_Produto_18 | 15.0        | Itaitinga - CE 
-Feira de Santana | Familia_Produto_20 | 72.0        | Itaitinga - CE 
-Feira de Santana | Familia_Produto_4 | 1.0        | Simões Filho - BA 
-Feira de Santana | Familia_Produto_5 | 24.0        | Simões Filho - BA 
-Feira de Santana | Familia_Produto_7 | 57.0        | Simões Filho - BA 
-Feira de Santana | Familia_Produto_9 | 115.0        | Simões Filho - BA 
-Feira de Santana | Familia_Produto_10 | 223.0        | Simões Filho - BA 
-Feira de Santana | Familia_Produto_11 | 163.0        | Simões Filho - BA 
-Feira de Santana | Familia_Produto_13 | 144.0        | Simões Filho - BA 
-Feira de Santana | Familia_Produto_18 | 47.0        | Simões Filho - BA 
-Feira de Santana | Familia_Produto_19 | 2.0        | Simões Filho - BA 
-Araguaína - TO | Familia_Produto_1 | 4.0        | Alta Floresta - MT 
-Araguaína - TO | Familia_Produto_6 | 111.0        | Alta Floresta - MT 
-Araguaína - TO | Familia_Produto_12 | 167.0        | Alta Floresta - MT 
-Araguaína - TO | Familia_Produto_3 | 38.0        | Goiania - GO 
-Araguaína - TO | Familia_Produto_7 | 134.0        | Goiania - GO 
-Araguaína - TO | Familia_Produto_9 | 87.0        | Goiania - GO 
-Araguaína - TO | Familia_Produto_11 | 148.0        | Goiania - GO 
-Araguaína - TO | Familia_Produto_13 | 17.0        | Goiania - GO 
-Araguaína - TO | Familia_Produto_17 | 95.0        | Goiania - GO 
-Araguaína - TO | Familia_Produto_18 | 42.0        | Goiania - GO 
-Araguaína - TO | Familia_Produto_20 | 28.0        | Goiania - GO 
-Araguaína - TO | Familia_Produto_11 | 7.0        | Aparecida de Goiania  
-Araguaína - TO | Familia_Produto_12 | 23.0        | Brasília - DF 
-Araguaína - TO | Familia_Produto_15 | 104.0        | Brasília - DF 
-Araguaína - TO | Familia_Produto_1 | 172.0        | Caucaia - CE 
-Araguaína - TO | Familia_Produto_6 | 105.0        | Caucaia - CE 
-Araguaína - TO | Familia_Produto_10 | 92.0        | Caucaia - CE 
-Araguaína - TO | Familia_Produto_12 | 49.0        | Caucaia - CE 
-Araguaína - TO | Familia_Produto_13 | 94.0        | Caucaia - CE 
-Araguaína - TO | Familia_Produto_1 | 21.0        | Confresa - MT 
-Araguaína - TO | Familia_Produto_2 | 50.0        | Confresa - MT 
-Araguaína - TO | Familia_Produto_3 | 105.0        | Confresa - MT 
-Araguaína - TO | Familia_Produto_4 | 33.0        | Confresa - MT 
-Araguaína - TO | Familia_Produto_5 | 70.0        | Confresa - MT 
-Araguaína - TO | Familia_Produto_6 | 57.0        | Confresa - MT 
-Araguaína - TO | Familia_Produto_7 | 79.0        | Confresa - MT 
-Araguaína - TO | Familia_Produto_8 | 110.0        | Confresa - MT 
-Araguaína - TO | Familia_Produto_9 | 5.0        | Confresa - MT 
-Araguaína - TO | Familia_Produto_10 | 80.0        | Confresa - MT 
-Araguaína - TO | Familia_Produto_11 | 142.0        | Confresa - MT 
-Araguaína - TO | Familia_Produto_12 | 49.0        | Confresa - MT 
-Araguaína - TO | Familia_Produto_13 | 39.0        | Confresa - MT 
-Araguaína - TO | Familia_Produto_14 | 195.0        | Confresa - MT 
-Araguaína - TO | Familia_Produto_15 | 45.0        | Confresa - MT 
-Araguaína - TO | Familia_Produto_16 | 244.0        | Confresa - MT 
-Araguaína - TO | Familia_Produto_17 | 149.0        | Confresa - MT 
-Araguaína - TO | Familia_Produto_18 | 92.0        | Confresa - MT 
-Araguaína - TO | Familia_Produto_19 | 81.0        | Confresa - MT 
-Araguaína - TO | Familia_Produto_20 | 125.0        | Confresa - MT 
-Araguaína - TO | Familia_Produto_13 | 99.0        | Barra do Garças - MT 
-Araguaína - TO | Familia_Produto_20 | 81.0        | Barra do Garças - MT 
+Custo Calculado: R$ 10831654.833377006 
+Fabrica                                  | Produto                | Quantidade (TON)                  | Centro de DistribuiçãoAnastácio 
+Fabrica_Jaguapitã-PR                       | Familia_AVES SEPARADO                     | 899.8928999999982                                | CentroDistribuição_Ponta Porã MS 
+Fabrica_Jaguapitã-PR                       | Familia_AVES PEITO                     | 101.75400000000104                                | CentroDistribuição_Confresa - MT 
+Fabrica_Jaguapitã-PR                       | Familia_AVES COXA                     | 116.22499999999991                                | CentroDistribuição_Barra do Garças - MT 
+Fabrica_Jaguapitã-PR                       | Familia_AVES PEITO                     | 500.115                                | CentroDistribuição_Barra do Garças - MT 
+Fabrica_Jaguapitã-PR                       | Familia_AVES COXA                     | 2843.113                                | CentroDistribuição_Pedra Preta - MT 
+Fabrica_Jaguapitã-PR                       | Familia_AVES SEPARADO                     | 341.8071000000018                                | CentroDistribuição_Pedra Preta - MT 
+Fabrica_Jaguapitã-PR                       | Familia_AVES ASA                     | 285.84                                | CentroDistribuição_Pedra Preta - MT 
+Fabrica_Jaguapitã-PR                       | Familia_AVES COXA                     | 259.404                                | CentroDistribuição_Porto Velho RO 
+Fabrica_Jaguapitã-PR                       | Familia_AVES COXA                     | 390.97800000000007                                | CentroDistribuição_São Miguel do Guaporé - RO 
+Fabrica_Rolândia-PR                       | Familia_AVES SEPARADO                     | 340.3432                                | CentroDistribuição_Alta Floresta - MT 
+Fabrica_Rolândia-PR                       | Familia_AVES COXA                     | 1511.68                                | CentroDistribuição_Brasília - DF 
+Fabrica_Rolândia-PR                       | Familia_AVES SEPARADO                     | 322.0044                                | CentroDistribuição_Brasília - DF 
+Fabrica_Rolândia-PR                       | Familia_AVES ASA                     | 26.535                                | CentroDistribuição_Brasília - DF 
+Fabrica_Rolândia-PR                       | Familia_AVES SEPARADO                     | 328.785                                | CentroDistribuição_Cajamar - SP 
+Fabrica_Rolândia-PR                       | Familia_AVES SEPARADO                     | 1402.0307                                | CentroDistribuição_Anhenguera - SP 2 
+Fabrica_Rolândia-PR                       | Familia_AVES PEITO                     | 705.12                                | CentroDistribuição_Anhenguera - SP 2 
+Fabrica_Rolândia-PR                       | Familia_AVES FILE                     | 40.185                                | CentroDistribuição_Anhenguera - SP 2 
+Fabrica_Rolândia-PR                       | Familia_AVES SEPARADO                     | 55.98                                | CentroDistribuição_Araputanga - MT 
+Fabrica_Rolândia-PR                       | Familia_AVES COXA                     | 1026.42                                | CentroDistribuição_Confresa - MT 
+Fabrica_Rolândia-PR                       | Familia_AVES SEPARADO                     | 365.975                                | CentroDistribuição_Confresa - MT 
+Fabrica_Rolândia-PR                       | Familia_AVES ASA                     | 81.99                                | CentroDistribuição_Confresa - MT 
+Fabrica_Rolândia-PR                       | Familia_AVES COXA                     | 1019.2530000000002                                | CentroDistribuição_Barra do Garças - MT 
+Fabrica_Rolândia-PR                       | Familia_AVES SEPARADO                     | 795.7425                                | CentroDistribuição_Barra do Garças - MT 
+Fabrica_Rolândia-PR                       | Familia_AVES SEPARADO                     | 2341.2405999999983                                | CentroDistribuição_Pedra Preta - MT 
+Fabrica_Rolândia-PR                       | Familia_AVES ASA                     | 854.3729999999998                                | CentroDistribuição_Pedra Preta - MT 
+Fabrica_Rolândia-PR                       | Familia_AVES SEPARADO                     | 54.06                                | CentroDistribuição_Pontes e Lacerda - MT 
+Fabrica_Rolândia-PR                       | Familia_AVES SEPARADO                     | 46.8776                                | CentroDistribuição_Cascavel - CE 
+Fabrica_Rolândia-PR                       | Familia_AVES SEPARADO                     | 163.71                                | CentroDistribuição_Porto Velho RO 
+Fabrica_Rolândia-PR                       | Familia_AVES COXA                     | 736.164                                | CentroDistribuição_Aparecida de Goiania GO 
+Fabrica_Rolândia-PR                       | Familia_AVES SEPARADO                     | 435.8755                                | CentroDistribuição_Aparecida de Goiania GO 
+Fabrica_Rolândia-PR                       | Familia_AVES PEITO                     | 594.51                                | CentroDistribuição_Aparecida de Goiania GO 
+Fabrica_Rolândia-PR                       | Familia_AVES ASA                     | 384.78                                | CentroDistribuição_Aparecida de Goiania GO 
+Fabrica_Rolândia-PR                       | Familia_AVES FILE                     | 81.0                                | CentroDistribuição_Aparecida de Goiania GO 
+Fabrica_Rolândia-PR                       | Familia_AVES SEPARADO                     | 136.053                                | CentroDistribuição_Maceió - AL 
+Fabrica_Rolândia-PR                       | Familia_AVES PEITO                     | 71.745                                | CentroDistribuição_Maceió - AL 
+Fabrica_Rolândia-PR                       | Familia_AVES COXA                     | 1096.738                                | CentroDistribuição_Caucaia - CE 
+Fabrica_Rolândia-PR                       | Familia_AVES SEPARADO                     | 231.975                                | CentroDistribuição_Caucaia - CE 
+Fabrica_Rolândia-PR                       | Familia_AVES ASA                     | 286.593                                | CentroDistribuição_Caucaia - CE 
+Fabrica_Rolândia-PR                       | Familia_AVES COXA                     | 1023.604                                | CentroDistribuição_Simões Filho - BA 
+Fabrica_Rolândia-PR                       | Familia_AVES SEPARADO                     | 53.916                                | CentroDistribuição_Simões Filho - BA 
+Fabrica_Rolândia-PR                       | Familia_AVES PEITO                     | 244.986                                | CentroDistribuição_Simões Filho - BA 
+Fabrica_Rolândia-PR                       | Familia_AVES ASA                     | 81.0                                | CentroDistribuição_Simões Filho - BA 
+Fabrica_Rolândia-PR                       | Familia_AVES SEPARADO                     | 252.5055000000002                                | CentroDistribuição_São Miguel do Guaporé - RO 
+Fabrica_Rolândia-PR                       | Familia_AVES COXA                     | 527.979                                | CentroDistribuição_Goiania - GO 
+Fabrica_Rolândia-PR                       | Familia_AVES SEPARADO                     | 1029.1825                                | CentroDistribuição_Goiania - GO 
+Fabrica_Rolândia-PR                       | Familia_AVES PEITO                     | 412.65                                | CentroDistribuição_Goiania - GO 
+Fabrica_Rolândia-PR                       | Familia_AVES ASA                     | 50.529                                | CentroDistribuição_Goiania - GO 
+Fabrica_Rolândia-PR                       | Familia_AVES SEPARADO                     | 77.94                                | CentroDistribuição_Juara - MT 
+Fabrica_Rolândia-PR                       | Familia_AVES COXA                     | 352.00199999999927                                | CentroDistribuição_Vilhena - RO 
+Fabrica_Rolândia-PR                       | Familia_AVES SEPARADO                     | 830.2235                                | CentroDistribuição_Vilhena - RO 
+Fabrica_Rolândia-PR                       | Familia_AVES ASA                     | 179.73000000000002                                | CentroDistribuição_Vilhena - RO 
+Fabrica_Itapiranga-SC                       | Familia_AVES COXA                     | 737.955                                | CentroDistribuição_Ponta Porã MS 
+Fabrica_Itapiranga-SC                       | Familia_AVES SEPARADO                     | 9.374300000001767                                | CentroDistribuição_Ponta Porã MS 
+Fabrica_Itapiranga-SC                       | Familia_AVES ASA                     | 337.215                                | CentroDistribuição_Ponta Porã MS 
+Fabrica_Itapiranga-SC                       | Familia_AVES ASA                     | 134.868                                | CentroDistribuição_Porto Velho RO 
+Fabrica_Itapiranga-SC                       | Familia_AVES COXA                     | 912.531                                | CentroDistribuição_Juara - MT 
+Fabrica_Itapiranga-SC                       | Familia_AVES COXA                     | 424.6110000000008                                | CentroDistribuição_Vilhena - RO 
+Fabrica_Itapiranga-SC                       | Familia_AVES ASA                     | 121.16399999999999                                | CentroDistribuição_Vilhena - RO 
+Fabrica_Seara-SC                       | Familia_SUINO SEPARADO                     | 136.161                                | CentroDistribuição_Cajamar - SP 
+Fabrica_Seara-SC                       | Familia_SUINO COSTELA                     | 840.50555                                | CentroDistribuição_Cajamar - SP 
+Fabrica_Seara-SC                       | Familia_SUINO PALETA                     | 1260.34192                                | CentroDistribuição_Cajamar - SP 
+Fabrica_Seara-SC                       | Familia_SUINO BARRIGA                     | 659.31874                                | CentroDistribuição_Cajamar - SP 
+Fabrica_Seara-SC                       | Familia_SUINO PERNIL                     | 1565.79441                                | CentroDistribuição_Cajamar - SP 
+Fabrica_Seara-SC                       | Familia_SUINO FILE                     | 4.986                                | CentroDistribuição_Cajamar - SP 
+Fabrica_Seara-SC                       | Familia_SUINO SEPARADO                     | 27.99                                | CentroDistribuição_Anhenguera - SP 2 
+Fabrica_Seara-SC                       | Familia_SUINO PERNIL                     | 167.78434                                | CentroDistribuição_Anhenguera - SP 2 
+Fabrica_Seara-SC                       | Familia_SUINO OSSO                     | 45.99                                | CentroDistribuição_Diamantino - MT 
+Fabrica_Seara-SC                       | Familia_SUINO SEPARADO                     | 393.25                                | CentroDistribuição_Anhenguera - SP 1 
+Fabrica_Seara-SC                       | Familia_SUINO COSTELA                     | 128.452                                | CentroDistribuição_Anhenguera - SP 1 
+Fabrica_Seara-SC                       | Familia_SUINO PERNIL                     | 111.13887                                | CentroDistribuição_Anhenguera - SP 1 
+Fabrica_Seara-SC                       | Familia_SUINO SEPARADO                     | 74.31199999999998                                | CentroDistribuição_Osasco - SP 
+Fabrica_Seara-SC                       | Familia_SUINO COSTELA                     | 267.386                                | CentroDistribuição_Osasco - SP 
+Fabrica_Tangara-SC                       | Familia_SUINO PALETA                     | 241.31709000000004                                | CentroDistribuição_Cajamar - SP 
+Fabrica_Tangara-SC                       | Familia_SUINO PALETA                     | 185.28291                                | CentroDistribuição_Anhenguera - SP 2 
+Fabrica_Tangara-SC                       | Familia_SUINO SEPARADO                     | 81.9                                | CentroDistribuição_Osasco - SP 
+Fabrica_Tangara-SC                       | Familia_SUINO DORSO                     | 132.0                                | CentroDistribuição_Itaitinga - CE 
+Fabrica_Dourados-MS                       | Familia_SUINO SEPARADO                     | 675.386                                | CentroDistribuição_Ponta Porã MS 
+Fabrica_Dourados-MS                       | Familia_SUINO COSTELA                     | 361.01731                                | CentroDistribuição_Ponta Porã MS 
+Fabrica_Dourados-MS                       | Familia_SUINO PALETA                     | 694.71428                                | CentroDistribuição_Ponta Porã MS 
+Fabrica_Dourados-MS                       | Familia_SUINO BARRIGA                     | 125.19203                                | CentroDistribuição_Ponta Porã MS 
+Fabrica_Dourados-MS                       | Familia_SUINO PERNIL                     | 315.82906                                | CentroDistribuição_Ponta Porã MS 
+Fabrica_Dourados-MS                       | Familia_SUINO PALETA                     | 106.23239                                | CentroDistribuição_Diamantino - MT 
+Fabrica_Dourados-MS                       | Familia_SUINO PERNIL                     | 146.04677                                | CentroDistribuição_Diamantino - MT 
+Fabrica_Dourados-MS                       | Familia_SUINO SEPARADO                     | 291.475                                | CentroDistribuição_Araputanga - MT 
+Fabrica_Dourados-MS                       | Familia_SUINO COSTELA                     | 218.632                                | CentroDistribuição_Araputanga - MT 
+Fabrica_Dourados-MS                       | Familia_SUINO PALETA                     | 27.98512                                | CentroDistribuição_Araputanga - MT 
+Fabrica_Dourados-MS                       | Familia_SUINO PERNIL                     | 54.98834                                | CentroDistribuição_Araputanga - MT 
+Fabrica_Dourados-MS                       | Familia_SUINO COSTELA                     | 73.43656                                | CentroDistribuição_Confresa - MT 
+Fabrica_Dourados-MS                       | Familia_SUINO PALETA                     | 73.44236                                | CentroDistribuição_Confresa - MT 
+Fabrica_Dourados-MS                       | Familia_SUINO PALETA                     | 96.42                                | CentroDistribuição_Barra do Garças - MT 
+Fabrica_Dourados-MS                       | Familia_SUINO SEPARADO                     | 77.445                                | CentroDistribuição_Porto Velho RO 
+Fabrica_Dourados-MS                       | Familia_SUINO SEPARADO                     | 82.98                                | CentroDistribuição_Itaitinga - CE 
+Fabrica_Forquilhinha-SC                       | Familia_AVES COXA                     | 306.396                                | CentroDistribuição_Cajamar - SP 
+Fabrica_Forquilhinha-SC                       | Familia_AVES ASA                     | 80.775                                | CentroDistribuição_Cajamar - SP 
+Fabrica_Forquilhinha-SC                       | Familia_AVES COXA                     | 2068.464                                | CentroDistribuição_Anhenguera - SP 2 
+Fabrica_Forquilhinha-SC                       | Familia_AVES ASA                     | 447.246                                | CentroDistribuição_Anhenguera - SP 2 
+Fabrica_Sidrolandia-MS                       | Familia_AVES PEITO                     | 430.605                                | CentroDistribuição_Ponta Porã MS 
+Fabrica_Sidrolandia-MS                       | Familia_AVES FILE                     | 54.09                                | CentroDistribuição_Ponta Porã MS 
+Fabrica_Sidrolandia-MS                       | Familia_AVES PEITO                     | 687.185999999999                                | CentroDistribuição_Confresa - MT 
+Fabrica_Sidrolandia-MS                       | Familia_AVES FILE                     | 107.4                                | CentroDistribuição_Confresa - MT 
+Fabrica_Sidrolandia-MS                       | Familia_AVES PEITO                     | 1650.18                                | CentroDistribuição_Pedra Preta - MT 
+Fabrica_Sidrolandia-MS                       | Familia_AVES ASA                     | 10.31100000000015                                | CentroDistribuição_Pedra Preta - MT 
+Fabrica_Sidrolandia-MS                       | Familia_AVES FILE                     | 161.25                                | CentroDistribuição_Pedra Preta - MT 
+Fabrica_Sidrolandia-MS                       | Familia_AVES SEPARADO                     | 174.4072                                | CentroDistribuição_Pimenta Bueno - RO 
+Fabrica_Sidrolandia-MS                       | Familia_AVES PEITO                     | 109.83                                | CentroDistribuição_Porto Velho RO 
+Fabrica_Sidrolandia-MS                       | Familia_AVES COXA                     | 3808.62                                | CentroDistribuição_São Miguel do Guaporé - RO 
+Fabrica_Sidrolandia-MS                       | Familia_AVES SEPARADO                     | 3091.2428                                | CentroDistribuição_São Miguel do Guaporé - RO 
+Fabrica_Sidrolandia-MS                       | Familia_AVES PEITO                     | 2697.579                                | CentroDistribuição_São Miguel do Guaporé - RO 
+Fabrica_Sidrolandia-MS                       | Familia_AVES ASA                     | 1496.379                                | CentroDistribuição_São Miguel do Guaporé - RO 
+Fabrica_Sidrolandia-MS                       | Familia_AVES FILE                     | 328.56492                                | CentroDistribuição_São Miguel do Guaporé - RO 
+Fabrica_Sidrolandia-MS                       | Familia_AVES PEITO                     | 665.52                                | CentroDistribuição_Juara - MT 
+Fabrica_Sidrolandia-MS                       | Familia_AVES PEITO                     | 756.81                                | CentroDistribuição_Vilhena - RO 
+Fabrica_Sidrolandia-MS                       | Familia_AVES FILE                     | 50.19                                | CentroDistribuição_Vilhena - RO 
 -------------------------------------------------------------------
