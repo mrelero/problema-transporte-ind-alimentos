@@ -10,6 +10,8 @@ k =0 até prepresenta a cada família de produtos, como suínos, aves, entre out
 
 Sabendo dos índices, os parâmetros, que são referentes aos dados coletados para operação da resolução, estão apresentados pelo Quadro 1. Com isso é possível identificar que esse modelo possui variáveis de decisão, que representa a quantidade do produto de família k produzida por i e entregue para j.  Esse termo é representado matematicamente por xijk, como a quantidade de produto k, fornecido por i e entregue para o centro de distribuição j. 
 
+![Getting Started](./Diagrama.png)
+
 
 | Símbolo | Descrição                                                           | Intervalo             |
 |---------|---------------------------------------------------------------------|-----------------------|
@@ -18,5 +20,15 @@ Sabendo dos índices, os parâmetros, que são referentes aos dados coletados pa
 | CAPki   | Capacidade produtiva do produto k na fábrica i                      | k =0 até p i =0 até n |
 | dij     | Distância de Transporte da fábrica i para j.                        | i =0 até n j =0 até m |
 
+![Getting Started](./Equacoes.png)
 
 
+
+# Metodologia
+
+O problema foi resolvido em Python 3 Notebook com Jupyter. Para resolução dos dados e construção do modelo foi utilizado o Solver GUROBI. 
+
+
+# Reulstados
+
+Os resultados obtidos foram escritos em .csv e .txt para melhor organização e apresentação dos dados. 
